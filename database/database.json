@@ -1,0 +1,13 @@
+{
+  "users": {},
+  "groups": {},
+  "premium": [],
+  "admins": [],
+  "muted": [],
+  "stats": {
+    "totalUsers": 0,
+    "totalCommands": 0,
+    "todayCommands": 0,
+    "lastReset": 0
+  }
+}
